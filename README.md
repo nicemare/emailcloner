@@ -4,8 +4,8 @@
 - cd emailcloner<br>
 - python2 emailcloner.py<br>
 <br>
-# This Tool Can Checking
-- @yahoo.com
-- @hotmail.com
+# This Tool Can Checking<br>
+- @yahoo.com<br>
+- @hotmail.com<br>
 
 
