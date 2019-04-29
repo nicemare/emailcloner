@@ -6,5 +6,8 @@
 # Support
 - @yahoo.com<br>
 - @hotmail.com<br>
+- @outlook.co.id<br>
+- @outlook.com
+
 
 
